@@ -1,0 +1,3 @@
+https://www.pytorials.com/how-to-install-opencv340-on-ubuntu1604/
+
+python3 yolo9000webcam.py -c /home/saktheeswaran/Documents/yolo9000pythonversion/yolo9000.cfg  -w /home/saktheeswaran/Documents/yolo9000pythonversion/yolo9000.weights -cl /home/saktheeswaran/Documents/yolo9000pythonversion/9k.names
